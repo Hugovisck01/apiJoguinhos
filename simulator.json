@@ -1,0 +1,37 @@
+[
+    {
+        "id": 17,
+        "nome": "GOAT Simulator",
+        "genero": "Simulação, Aventura e Casual",
+        "data": "28 de março de 2014",
+        "desenvolvedor": "Coffee Stain Studio",
+        "plataforma": "Nintendo Switc, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Android, iOS, Windows, MacOS e Linux"
+    }
+    ,
+    {
+        "id": 18,
+        "nome": "PC Building Simulator",
+        "genero": "Simulação e Educacional",
+        "data": "27 de março de 2018",
+        "desenvolvedor": "The Irregular Corporation",
+        "plataforma": "Windows, PlayStation 4, Xbox One, Nintendo Switch e SteamOS"
+    }
+    ,
+    {
+        "id": 19,
+        "nome": "The Sims 4",
+        "genero": "Simulação",
+        "data": "2 de setembro de 2014",
+        "desenvolvedor": "Maxis e Eletronic Arts",
+        "plataforma": "PlayStation 4, Xbox One, Microsoft Windows e Mac OS"
+    }
+    ,
+    {
+        "id": 20,
+        "nome": "Football Manager 2023",
+        "genero": "Simulação, Esporte e Estratégia",
+        "data": "7 de novembro de 2022",
+        "desenvolvedor": "Sports Interactive",
+        "plataforma": "PlayStation 5, Xbox One, Xbox Series, Nintendo Switch, Android, iOS, Windows e MacOS"
+    }
+]

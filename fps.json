@@ -1,0 +1,37 @@
+[
+    {
+        "id": 9,
+        "nome": "Valorant",
+        "genero": "Tiro tático",
+        "data": "2 de junho de 2020",
+        "desenvolvedor": "Riot Games",
+        "plataforma": "Windows"
+    }
+    ,
+    {
+        "id": 10,
+        "nome": "Counter-Strike: Global Offensive",
+        "genero": "Tiro tático",
+        "data": "21 de agosto 2012",
+        "desenvolvedor": "Valve Corporation",
+        "plataforma": "Windows, MacOS, PlayStation 3, Xbox 360, Linux e Xbox One"
+    }
+    ,
+    {
+        "id": 11,
+        "nome": "Tom Clancy's Rainbow Six Siege",
+        "genero": "Tiro tático",
+        "data": "1 de dezembro de 2015",
+        "desenvolvedor": "Ubisoft Montreal",
+        "plataforma": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series, Windows e Google Stadia"
+    }
+    ,
+    {
+        "id": 12,
+        "nome": "Fortnite",
+        "genero": "Battle royale e Tiro",
+        "data": "21 de julho de 2017",
+        "desenvolvedor": "Epic Games",
+        "plataforma": "Xbox Cloud Gaming, Xbox One, Xbox Series, PlayStation 4, PlayStation 5, Nintendo Switch, Android, iOS, Windows, MacOS e Amazon Luna"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 5,
+        "nome": "Minecraft",
+        "genero": "Ação e aventura, Sobrevivência e Sandbox",
+        "data": "18 de novembro de 2011",
+        "desenvolvedor": "Mojang",
+        "plataforma": "Xbox, Amazon Fire, PlayStation, iOS, Nintendo, Android, Linux, Windows, MacOS"
+    }
+    ,
+    {
+        "id": 6,
+        "nome": "The Last Of Us Part I",
+        "genero": "Ação e aventura e Tiro",
+        "data": "14 de junho de 2013",
+        "desenvolvedor": "Naughty Dog",
+        "plataforma": "PlayStation 3, PlayStation 4, PlayStation 5, Windows"
+    }
+    ,
+    {
+        "id": 7,
+        "nome": "God of War",
+        "genero": "Ação e aventura, Luta e RPG",
+        "data": "20 de abril de 2018",
+        "desenvolvedor": "Santa Monica Studio",
+        "plataforma": "PlayStation 4, PlayStation 5 e Windows"
+    }
+    ,
+    {
+        "id": 8,
+        "nome": "Grand Theft Auto V",
+        "genero": "Ação e aventura e Tiro",
+        "data": "17 de setembro de 2013",
+        "desenvolvedor": "Rockstar Games",
+        "plataforma": "PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series, Windows e Xbox Cloud Gaming"
+    }
+]

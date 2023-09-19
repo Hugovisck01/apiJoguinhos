@@ -1,0 +1,37 @@
+[
+    {
+        "id": 13,
+        "nome": "Elden Ring",
+        "genero": "RPG, Luta, Aventura e Plataforma",
+        "data": "25 de fevereiro de 2022",
+        "desenvolvedor": "FromSoftware",
+        "plataforma": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series e Windows"
+    }
+    ,
+    {
+        "id": 14,
+        "nome": "Dark Souls",
+        "genero": "Dungeon Crawler",
+        "data": "22 de setembro de 2011",
+        "desenvolvedor": "FromSoftware",
+        "plataforma": "Nintendo Switch, PlayStation 3, PlayStation 4, Xbox 360, Xbox One e Windows"
+    }
+    ,
+    {
+        "id": 15,
+        "nome": "League Of Legends",
+        "genero": "RPG",
+        "data": "27 de outubro de 2009",
+        "desenvolvedor": "Riot Games",
+        "plataforma": "MacOS, Windows, PlayStation 4 e Xbox One"
+    }
+    ,
+    {
+        "id": 16,
+        "nome": "The Witcher",
+        "genero": "Luta, Ação e Aventura, RPG",
+        "data": "26 de outubro de 2007",
+        "desenvolvedor": "CD Projekt",
+        "plataforma": "Windows e MacOS"
+    }
+]
