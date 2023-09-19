@@ -6,6 +6,7 @@
         "data": "27 de setembro de 2022",
         "desenvolvedor": "Electronic Arts",
         "plataforma": "PlayStation 5, PlayStation 4, Nintendo Switch, Xbox Series X e Series S, Xbox One, Microsoft Windows, Google Stadia"
+        "foto": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S1_2560x1440-aaf9c5273c27a485f2cce8cb7e804f5c"
     }
     ,
     {
@@ -15,15 +16,17 @@
         "data": "7 de setembro de 2023",
         "desenvolvedor": "Konami",
         "plataforma":"PlayStation 5, PlayStation 4, Nintendo Switch, Xbox Series X e Series S, Xbox One, Microsoft Windows, IOS, Android"
+        "foto": "https://meups.com.br/wp-content/uploads/2023/09/eFootball-2024-Messi-900x503.jpg"
     }
     ,
     {
         "id": 3,
-        "nome": "NBA 2K23",
+        "nome": "NBA 2K24",
         "genero":"Esportes e simulação",
         "data":"8 de setembro de 2022",
         "desenvolvedor": "Visual Concepts",
         "plataforma":"PlayStation 5, PlayStation 4, Nintendo Switch, Xbox Series X e Series S, Xbox One, Microsoft Windows, Apple Arcade"
+        "foto": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2809/5159044426c8eb5cace881645eb69a0ae3d3a91dee65018e.jpg"
     }
     ,
     {
@@ -33,5 +36,6 @@
         "data": "28 de abril de 2023",
         "desenvolvedor":"Electronic Arts e Codemasters",
         "plataforma": "PlayStation 5, PlayStation 4, Xbox Series X e Series S, Xbox One, Microsoft Windows"
+        "foto": "https://cdn1.epicgames.com/offer/b7773a08a6fa41e3a0fbc4c1e51c95a4/EGS_F123StandardEdition_Codemasters_S1_2560x1440-467b1cdd2c54eb2ecaa3d776351ca452"
     }
 ]
