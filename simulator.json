@@ -6,6 +6,7 @@
         "data": "28 de março de 2014",
         "desenvolvedor": "Coffee Stain Studio",
         "plataforma": "Nintendo Switc, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Android, iOS, Windows, MacOS e Linux"
+        "foto": "https://s2-techtudo.glbimg.com/edCtJ7DRrFM06pPcZ-SEQJjFVSU=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/po/tt2/f/original/2015/09/16/goat-simulator-como-jogar-simulador-bode-cabra.jpg"
     }
     ,
     {
@@ -15,6 +16,7 @@
         "data": "27 de março de 2018",
         "desenvolvedor": "The Irregular Corporation",
         "plataforma": "Windows, PlayStation 4, Xbox One, Nintendo Switch e SteamOS"
+        "foto": "https://image.api.playstation.com/vulcan/img/cfn/11307Ht1gn6n5zp13N4kJg_YwKg2rgJ-CzCKWTnz-XKXn31Agx-4N0DsdJxt7D3JJaJ8_hpOq-Q_I01-LLnEHikJhk0MrnPr.png"
     }
     ,
     {
@@ -24,14 +26,16 @@
         "data": "2 de setembro de 2014",
         "desenvolvedor": "Maxis e Eletronic Arts",
         "plataforma": "PlayStation 4, Xbox One, Microsoft Windows e Mac OS"
+        "foto": "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/Btg9YJMDRcWgsbD5E6rOcdT5.jpg"
     }
     ,
     {
         "id": 20,
-        "nome": "Football Manager 2023",
+        "nome": "Football Manager 2024",
         "genero": "Simulação, Esporte e Estratégia",
         "data": "7 de novembro de 2022",
         "desenvolvedor": "Sports Interactive",
         "plataforma": "PlayStation 5, Xbox One, Xbox Series, Nintendo Switch, Android, iOS, Windows e MacOS"
+        "foto": "https://cdn.footballmanager.com/site/2023-09/FM24%20UCL%20Key%20Art%202%20Variations_Opengraph.jpg"
     }
 ]
