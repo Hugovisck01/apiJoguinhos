@@ -6,6 +6,7 @@
         "data": "2 de junho de 2020",
         "desenvolvedor": "Riot Games",
         "plataforma": "Windows"
+        "foto": "https://s2-techtudo.glbimg.com/QWdLe0AOdvE1l-N5sLVsJhjurj4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/j/U/iLO5YCRBmGHUsDwBIBHA/valorant-closed-beta-1200x675.png"
     }
     ,
     {
@@ -15,6 +16,7 @@
         "data": "21 de agosto 2012",
         "desenvolvedor": "Valve Corporation",
         "plataforma": "Windows, MacOS, PlayStation 3, Xbox 360, Linux e Xbox One"
+        "foto": "https://s2-ge.glbimg.com/BsRH4rij3O7pZ-gj3JCCLNFcFw0=/0x0:1100x618/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Y/i/dULbPDQDC1fIKuUQQRug/csgo-image.jpg"
     }
     ,
     {
@@ -24,6 +26,7 @@
         "data": "1 de dezembro de 2015",
         "desenvolvedor": "Ubisoft Montreal",
         "plataforma": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series, Windows e Google Stadia"
+        "foto": "https://cdn1.epicgames.com/offer/carnation/Share_Image_1920x1080-3_1920x1080-6e2d079f24db0a35285007191358978b"
     }
     ,
     {
@@ -33,5 +36,6 @@
         "data": "21 de julho de 2017",
         "desenvolvedor": "Epic Games",
         "plataforma": "Xbox Cloud Gaming, Xbox One, Xbox Series, PlayStation 4, PlayStation 5, Nintendo Switch, Android, iOS, Windows, MacOS e Amazon Luna"
+        "foto": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000010192/d7d122e8b5680f10d50587141a9f8c4fab17d8557b884a60531d16e861a70cb3"
     }
 ]
